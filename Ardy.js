@@ -61,14 +61,14 @@ prefix = '#'
 blocked = [] 
 limitawal = 999 
 memberlimit = 1 
-NameBot = 'Group Maneger Bot 🪀😈'
+NameBot = 'Alpha Bot'
 fakedoc = "PunyaArdy🤡"
-fakereply = "#MS_JESSICA 🦄🌈"
+fakereply = "#Alpha_sir 🐺"
 faketoko = "ArdyStore🤡"
-imgbb = 'https://telegra.ph/file/a3334214705ce825dad70.jpg'
+imgbb = 'https://telegra.ph/file/a85a4f4e1c06196f702db.jpg'
 lolkey = '0e355253876c073d3ed3f163'
 xteam = 'AbilGanss'
-const ownerNumber = ["9475933569@s.whatsapp.net"]   
+const ownerNumber = ["918921936055@s.whatsapp.net"]   
 
 
 
